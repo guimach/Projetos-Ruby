@@ -1,0 +1,74 @@
+comprar_vivo:
+  url: https://vivo-back-homol.whitelabel.com.br
+
+obter_senha:
+  url: http://vivo-back-homol.whitelabel.com.br
+
+protege:
+  url: https://vivo-front-homol.whitelabel.com.br/webview/vivo-protege?next=%2Foauth%2Fauthorize%3Fclient_id%3Df123c4ccee254f51546c3977468fda27%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+vfol:
+  url: https://vivo-filhos-homol.whitelabel.com.br/?next=%2Foauth%2Fauthorize%3Fclient_id%3D1d2dd8ed6d6337ac0e3d782de2ae61ad%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+vivo_sync:
+  url: https://vivo-front-homol.whitelabel.com.br/webview/vivo-sync?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3D357e007a24fea056caf4c4d222314d64
+
+wi-fi:
+  url: https://vivo-front-homol.whitelabel.com.br/webview/vivo-wifi-seguro?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3Dcca150cd987d4479b681a5f1ad9aeb84
+
+cancelamento:
+  url: http://vivo-back-homol-v2.whitelabel.com.br
+
+consulta_cancelamento:
+  url: http://vivo-back-homol-v2.whitelabel.com.br
+
+compra_fixa:
+  url: https://gvt-back-homol.whitelabel.com.br/tests/solicitar_chave.php
+
+protege_gvt:
+  url: https://vivo-front-homol.whitelabel.com.br/webview/vivo-protege?next=%2Foauth%2Fauthorize%3Fclient_id%3Df123c4ccee254f51546c3977468fda27%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+vfol_gvt:
+  url: https://vivo-filhos-homol.whitelabel.com.br/?next=%2Foauth%2Fauthorize%3Fclient_id%3D1d2dd8ed6d6337ac0e3d782de2ae61ad%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+vsync_gvt:
+  url: https://vivo-front-homol.whitelabel.com.br/webview/vivo-sync?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3D13406a5b87b6483aac9a748dece7ad51
+
+wi_fi_gvt:
+  url: https://vivo-front-homol.whitelabel.com.br/webview/vivo-wifi-seguro?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3Dcca150cd987d4479b681a5f1ad9aeb84
+ 
+pincode_hero:
+  url: http://hero-api-homol.whitelabel.com.br
+
+compra_fast:
+  url: https://hero-loja-homol.whitelabel.com.br/Auth/login
+
+wi_fi_hero:
+  url: https://hero-hotsite-homol.whitelabel.com.br/wifi/login?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Dfdeb58f27a024247a57a642b5b068715%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br/
+
+area_cliente_hero:
+  url: https://hero-hotsite-homol.whitelabel.com.br/sso-signup?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3D27ed0c5090ad4d9dbbae9b938f3e86a7%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+cloud_hero:
+  url: https://hero-hotsite-homol.whitelabel.com.br/cloud/get-ssoid?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3D4b1c3dccf4d34506b870b78e5f38ec44%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+segurança_hero:
+  url: https://hero-hotsite-homol.whitelabel.com.br/segurancaks/login?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3D840cd0cc23b84e75b57865c9b889068a%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+safe_kids:
+  url: https://hero-hotsite-homol.whitelabel.com.br/login/kaspersky-safe-kids?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3D32376b61dc3418dbd30c4ea1fa2ecf50%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+compra_oi:
+  url: http://hotsite-oi-homol.whitelabel.com.br/mo/api_test.php?
+
+oi_seguranca:
+  url: http://site-oi-homol.whitelabel.com.br/webview/protecao-completa/?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3D00006a1599c948b8a012a57a3eb712da
+
+oi_hotsite:
+  url: http://site-oi-homol.whitelabel.com.br/?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3D90e0298d2c9340c08e71689ec6ed6eff
+
+oi_wifi:
+  url: http://site-oi-homol.whitelabel.com.br/wifi/login?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3D6734cbba0908436894b25bf245fba366
+
+cancelamento_oi:
+url: http://hotsite-oi-homol.whitelabel.com.br/mo/api_test.php?

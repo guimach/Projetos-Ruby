@@ -1,0 +1,9 @@
+# YAML template
+---
+default: -p pretty -p prod -p chrome
+pretty: --format pretty
+progress: --format progress
+homol: ENV_TYPE=homol
+prod: ENV_TYPE=prod
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox

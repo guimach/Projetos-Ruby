@@ -1,0 +1,14 @@
+source 'http://rubygems.org'
+
+gem 'cucumber'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem "rspec"
+gem 'pretty'
+gem 'httparty'
+gem 'pry'
+gem 'site_prism'
+gem 'faker'
+gem 'solargraph'
+gem 'cpf_faker'
+gem 'mysql2'

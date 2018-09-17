@@ -1,0 +1,4 @@
+url:
+  api: https://vivo.whitelabel.com.br
+  site: https://segurancaonline.vivo.com.br
+env: 'prod'

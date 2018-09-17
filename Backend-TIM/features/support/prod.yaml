@@ -1,0 +1,4 @@
+end_point:
+  url: http://lbi-provisionador.aws.whitelabel.com.br:8889
+
+  api: http://tim.whitelabel.com.br/api/notification-hub.php

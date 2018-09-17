@@ -1,0 +1,9 @@
+# YAML template
+default: -p pretty  -p html -p homol -p firefox
+pretty: --format pretty
+progress: --format progress
+html: --format html --out features/outReport/Phone-Auth-09-08-2018.html
+homol: ENV_TYPE=homol
+prod: ENV_TYPE=prod
+chrome: BROWSER=chrome
+firefox: BROWSER=firefoxk

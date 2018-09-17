@@ -1,0 +1,5 @@
+end_point:
+  url: http://provisionador-homol.whitelabel.com.br:8889
+
+  api: http://tim-back-homol.whitelabel.com.br/api/notification-hub.php
+

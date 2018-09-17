@@ -1,0 +1,9 @@
+# YAML template
+default: -p pretty  -p html -p homol -p firefox
+pretty: --format pretty
+progress: --format progress
+html: --format html --out features/outReport/SSO-OI-26-07-2018.html
+homol: ENV_TYPE=homol_vivo
+prod: ENV_TYPE=prod_vivo
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox

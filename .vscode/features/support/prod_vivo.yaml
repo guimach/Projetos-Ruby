@@ -1,0 +1,75 @@
+
+comprar_vivo:
+  url: http://vivo.whitelabel.com.br
+
+obter_senha: 
+  url: http://vivo.whitelabel.com.br
+
+protege:
+  url: https://protecao.vivo.com.br/webview/vivo-protege?next=%2Foauth%2Fauthorize%3Fclient_id%3Dd8ce1b0e07e9be894a1d6634cc49d0dc%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+vfol:
+  url: https://filhosonline.vivo.com.br/?next=%2Foauth%2Fauthorize%3Fclient_id%3D04f29103ea737dec82fcda01dd1cb3a2%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+vivo_sync:
+  url: https://protecao.vivo.com.br/webview/vivo-sync?next=%2Foauth%2Fauthorize%3Fclient_id%3D697f89a9c7bb4353b957c261be0fff47%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+wi-fi:
+  url: https://protecao.vivo.com.br/webview/vivo-wifi-seguro?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3Dcca150cd987d4479b681a5f1ad9aeb84
+
+cancelamento:
+  url: http://vivo.whitelabel.com.br
+
+consulta_cancelamento:
+  url: http://vivo.whitelabel.com.br
+
+compra_fixa:
+  url: http://gvt.whitelabel.com.br/tests/solicitar_chave.php
+
+protege_gvt:
+  url: https://protecao.vivo.com.br/webview/vivo-protege?next=%2Foauth%2Fauthorize%3Fclient_id%3Dd8ce1b0e07e9be894a1d6634cc49d0dc%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+vfol_gvt:
+  url: https://filhosonline.vivo.com.br/?next=%2Foauth%2Fauthorize%3Fclient_id%3D04f29103ea737dec82fcda01dd1cb3a2%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+vsync_gvt:
+  url: https://protecao.vivo.com.br/webview/vivo-sync?next=%2Foauth%2Fauthorize%3Fclient_id%3D697f89a9c7bb4353b957c261be0fff47%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+wi_fi_gvt:
+  url: https://protecao.vivo.com.br/webview/vivo-wifi-seguro?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3Dcca150cd987d4479b681a5f1ad9aeb84
+
+pincode_hero:
+  url: http://lbi-hero-api2.aws.whitelabel.com.br
+
+compra_fast:
+  url: https://loja.fshero.com.br/Auth/login
+
+wi_fi_hero:
+  url: https://www.fshero.com.br/wifi/login?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3D63658b93329543d1a9a1dca1741e53d0%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br/
+
+area_cliente_hero:
+  url: https://www.fshero.com.br/sso-signup?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Db5696157b1d9473c8d7db4198f667fdb%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+cloud_hero:
+  url: https://www.fshero.com.br/cloud/get-ssoid?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3D4a6829ef3e94464db34b7f8316b0fcf5%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+segurança_hero:
+  url: https://www.fshero.com.br/seguranca/login?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3Df4319b9d79654ecbbbcd276eb7a4f4f6%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+safe_kids:
+  url: https://fshero.com.br/login/kaspersky-safe-kids?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3D0c7ba9abc7cb3a7040ae2a8b72de6a60%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br
+
+compra_oi:
+  url: http://gwoi.whitelabel.com.br
+
+oi_seguranca:
+  url: https://oiseguranca.com.br/webview/protecao-completa/?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3De814614c5a21434daa25e872fa56d2ae
+
+oi_hotsite:
+  url: https://oiseguranca.com.br/?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3D90e0298d2c9340c08e71689ec6ed6eff
+
+oi_wifi:
+  url: https://www.oiseguranca.com.br/wifi/login?next=%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Ffs.com.br%26client_id%3D6734cbba0908436894b25bf245fba366
+
+cancelamento_oi:
+  url: http://gwoi.whitelabel.com.br

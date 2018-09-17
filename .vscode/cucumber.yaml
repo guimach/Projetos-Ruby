@@ -1,0 +1,8 @@
+# YAML template
+default: -p pretty  -p html -p prod -p chrome
+pretty: --format pretty
+progress: --format progress
+html: --format html --out features/outReport/migracao-hero-17-04-2018.html
+homol: ENV_TYPE=homol_vivo
+prod: ENV_TYPE=prod_vivo
+chrome: BROWSER=chrome

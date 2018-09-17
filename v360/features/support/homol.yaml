@@ -1,0 +1,4 @@
+url:
+  api: https://vivo-front-homol.whitelabel.com.br
+  site: http://vivo-back-homol.whitelabel.com.br
+env: 'homol'

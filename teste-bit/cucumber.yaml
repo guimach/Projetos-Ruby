@@ -1,0 +1,7 @@
+# YAML template
+---
+default: -p pretty -p chrome
+pretty: --format pretty
+progress: --format progress
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox
